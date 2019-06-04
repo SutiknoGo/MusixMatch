@@ -1,0 +1,18 @@
+{
+	"name": "Musixmatch - Song Lyrics", 
+	"short_name": "Musixmatch", 
+	"icons": [
+		{ "src": "./img/logo.png", "sizes": "128x128", "type": "image/png" },
+		{ "src": "./img/logo.png", "sizes": "192x192", "type": "image/png" },
+		{ "src": "./img/logo.png", "sizes": "512x512", "type": "image/png" }
+	], 
+	"start_url": "./index.php", 
+	"scope": ".",
+	"display": "standalone", 
+	"orientation": "portrait-primary",
+	"background_color": "#3E4EB8",
+	"theme_color": "#2F3BA2",
+	"description": "Search your favorite song lyrics.",
+	"dir": "ltr",
+    "lang": "en-US"
+}
