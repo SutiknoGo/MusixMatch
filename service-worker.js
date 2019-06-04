@@ -1,5 +1,5 @@
 const STATIC_ASSETS = [
-    './',
+    './index.html',
     './css/animate.css',
     './css/bootstrap-responsive.css',
     './css/bootstrap-responsive.min.css',
