@@ -10,8 +10,8 @@
 	"scope": ".",
 	"display": "standalone", 
 	"orientation": "portrait-primary",
-	"background_color": "#3E4EB8",
-	"theme_color": "#2F3BA2",
+	"background_color": "#fff",
+	"theme_color": "#3f51b5",
 	"description": "Search your favorite song lyrics.",
 	"dir": "ltr",
     "lang": "en-US"
